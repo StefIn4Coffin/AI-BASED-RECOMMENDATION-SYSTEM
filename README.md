@@ -75,3 +75,6 @@ java -cp ".;mahout-core-0.9.jar" RecommenderApp
 Conclusion
 
 This project shows how to build a basic AI recommendation engine using Java in a way that’s easy to understand and run. It’s a practical example of real-world AI concepts and gives a strong foundation to build more advanced systems, such as those using content-based filtering, hybrid models, or even deep learning in the future.
+
+
+![Image](https://github.com/user-attachments/assets/e9d6c887-2d1d-4e0d-aa6a-1c8f3480f455)
